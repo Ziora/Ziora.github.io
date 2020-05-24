@@ -12,15 +12,12 @@ html {
 
 h1 {
 	font-style: 3rem;
-	color: #b59c49;
-}
-h2 {
-	font-style: 3rem;
-	color: #e28787;
+	color: #ab2200;
+	font-family: 'Caladea';
 }
 
  hr {
- 	border-color: #da4282;
+ 	border-color: #d07d5b;
  	border-width: 3px;
  	max-width: 65px;
  }
@@ -36,8 +33,8 @@ h2 {
 }
 
 .btn-primary {
-	background-color: #da4282;
-	border-color: #F05f44
+	background-color: #d07d5b;
+	border-color: #F05f44;
 }
 
 .btn-primary:hover {
