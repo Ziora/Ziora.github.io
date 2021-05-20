@@ -10,14 +10,18 @@ html {
   background-size: cover;
 }
 
+
 h1 {
-	font-style: 3rem;
-	color: #b59c49;
-}
-h2 {
 	font-style: 3rem;
 	color: #e28787;
 }
+
+
+h2 {
+	font-style: 3rem;
+	color: #b59c49;
+}
+
 
  hr {
  	border-color: #da4282;
